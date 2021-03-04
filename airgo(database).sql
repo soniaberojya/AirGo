@@ -69,8 +69,8 @@ VALUES(50,'Hyderabad','2021-03-03','13:30:00','Mumbai','2021-03-03','15:00:00',2
 INSERT INTO flightinfo(capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
 VALUES(50,'Mumbai','2021-03-03','15:20:00','Bangaluru','2021-03-03','17:00:00',2300,1);
 
-INSERT INTO flightinfo(flight_number,capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
-VALUES(4,50,'Bangaluru','2021-03-03','15:20:00','Mumbai','2021-03-03','17:00:00',2300,1);
+INSERT INTO flightinfo(capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
+VALUES(50,'Bangaluru','2021-03-03','15:20:00','Mumbai','2021-03-03','17:00:00',2300,1);
 
 
 INSERT INTO flightinfo(capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
@@ -84,15 +84,15 @@ VALUES(50,'Hyderabad','2021-03-03','15:30:00','Bangaluru','2021-03-03','16:55:00
 
 #****************************************************************************************************
 
-INSERT INTO flightinfo(flight_number,capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
-VALUES(8,100,'Mumbai','2021-03-03','20:30:00','London','2021-04-03','12:30:00',65000,2);
+INSERT INTO flightinfo(capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
+VALUES(100,'Mumbai','2021-03-03','20:30:00','London','2021-04-03','12:30:00',65000,2);
 
 
-INSERT INTO flightinfo(flight_number,capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
-VALUES(9,100,'Bangaluru','2021-07-03','20:30:00','Paris','2021-08-03','16:50:00',64780,2);
+INSERT INTO flightinfo(capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
+VALUES(100,'Bangaluru','2021-07-03','20:30:00','Paris','2021-08-03','16:50:00',64780,2);
 
-INSERT INTO flightinfo(flight_number,capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
-VALUES(10,100,'Mumbai','2021-09-03','20:30:00','Paris','2021-04-03','05:20:00',49509,2);
+INSERT INTO flightinfo(capacity,SOURCE,s_date,s_time,destination,d_date,d_time,fare,TYPE)
+VALUES(100,'Mumbai','2021-09-03','20:30:00','Paris','2021-04-03','05:20:00',49509,2);
 
 
 
